@@ -9,14 +9,10 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm 
 ## 5a
-### step1.
-import the required numpy and scipy
-### step2.
-define the matrix A using np.array
-### step3.
-find the matrix P,L,U using lu(A)
-### step4.
-print L and U
+### step1. import the required numpy and scipy
+### step2. define the matrix A using np.array
+### step3. find the matrix P,L,U using lu(A)
+### step4. print L and U
 
 ## 5b
 ### step1. import the required numpy and scipy
