@@ -18,7 +18,7 @@ find the matrix P,L,U using lu(A)
 ### step4.
 print L and U
 
-##5b
+## 5b
 ### step1. import the required numpy and scipy
 ### step2. define the matrix A and B using np.array
 ### step3. find the LU factorization of A using lu_solve()
