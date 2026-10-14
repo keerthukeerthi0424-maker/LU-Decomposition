@@ -81,8 +81,11 @@ print(x)
 ```
 
 ## Output:
+## 5a
 <img width="942" height="497" alt="image" src="https://github.com/user-attachments/assets/96e096e8-6fdc-4648-88ce-4919bf83c2c6" />
 <img width="1222" height="473" alt="image" src="https://github.com/user-attachments/assets/6ea5c948-f728-4d33-9de7-2febfcbfe652" />
+## 5b
+<img width="1068" height="753" alt="image" src="https://github.com/user-attachments/assets/adec82ff-c14e-4da1-9fcf-cc2224c58006" />
 
 
 
